@@ -79,7 +79,7 @@ input#open {
 
 #open:checked ~ .card-front:before {
   z-index:5;
-  content:"Amorcito, te gustaria ir a celebrar este dia especial juntos, con una cena romantica donde podemos hacer realidad uno de nuestros sueños juntos?";
+  content:"Amorcito, te gustaria ir a celebrar este dia especial juntos, con una cena romantica donde podemos hacer realidad uno de nuestros sueños?";
   transform: rotateY(180deg);
   background-color: #fff0f3;
   width:300px;
